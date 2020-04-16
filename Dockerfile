@@ -1,4 +1,4 @@
-FROM python:3.7.0
+FROM python:3.6.4
 
 # 设置工作目录
 RUN mkdir -p /usr/src/app
